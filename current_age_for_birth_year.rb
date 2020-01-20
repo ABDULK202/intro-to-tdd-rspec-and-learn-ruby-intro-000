@@ -1,3 +1,3 @@
-def current_age_for_bith_year(birthyear)
-2003 - birthyear
+def current_age_for_bith_year(birth_year)
+2003 - birth_year
 end
